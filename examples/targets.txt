@@ -1,0 +1,8 @@
+# Explicit types avoid confusing numeric usernames with phone numbers.
+# These entries run without a network connection when --offline is used.
+ip 192.168.1.1
+ip 2001:db8::1
+phone +1 202-555-0123
+username octocat
+domain example.com
+website https://example.com

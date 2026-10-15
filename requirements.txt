@@ -1,2 +1,2 @@
-requests
-phonenumbers
+requests>=2.32.3,<3
+phonenumbers>=9,<10

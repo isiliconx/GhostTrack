@@ -1,0 +1,258 @@
+{
+  "schema_version": 1,
+  "tool": "GhostTrack Collective",
+  "tool_version": "3.0.0",
+  "created_at": "2026-10-15T18:32:37+00:00",
+  "results": [
+    {
+      "kind": "ip",
+      "target": "192.168.1.1",
+      "status": "local",
+      "checked_at": "2026-10-15T18:32:37+00:00",
+      "source": "Python ipaddress (offline)",
+      "data": {
+        "ip": "192.168.1.1",
+        "version": 4,
+        "scope": "private",
+        "globally_routable": false,
+        "reverse_pointer": "1.1.168.192.in-addr.arpa",
+        "note": "Local address classification only; no geolocation request was sent."
+      }
+    },
+    {
+      "kind": "ip",
+      "target": "2001:db8::1",
+      "status": "local",
+      "checked_at": "2026-10-15T18:32:37+00:00",
+      "source": "Python ipaddress (offline)",
+      "data": {
+        "ip": "2001:db8::1",
+        "version": 6,
+        "scope": "private",
+        "globally_routable": false,
+        "reverse_pointer": "1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.b.d.0.1.0.0.2.ip6.arpa",
+        "note": "Local address classification only; no geolocation request was sent."
+      }
+    },
+    {
+      "kind": "phone",
+      "target": "+12025550123",
+      "status": "ok",
+      "checked_at": "2026-10-15T18:32:37+00:00",
+      "source": "phonenumbers 9.0.41 (offline)",
+      "data": {
+        "region": "US",
+        "country_code": 1,
+        "valid": true,
+        "possible": true,
+        "type": "FIXED_LINE_OR_MOBILE",
+        "area_description": "Washington D.C.",
+        "original_carrier": "",
+        "timezones": [
+          "America/New_York"
+        ],
+        "e164": "+12025550123",
+        "international": "+1 202-555-0123",
+        "national": "(202) 555-0123",
+        "note": "Offline numbering-plan metadata; no live location, ownership, active-service or current-carrier verification."
+      }
+    },
+    {
+      "kind": "username",
+      "target": "octocat",
+      "status": "ok",
+      "checked_at": "2026-10-15T18:32:37+00:00",
+      "source": "Public profile endpoints; see per-site evidence",
+      "data": {
+        "checks": [
+          {
+            "site": "GitHub",
+            "url": "https://github.com/octocat",
+            "probe_url": null,
+            "status": "unknown",
+            "evidence": "Manual profile link; existence has not been checked.",
+            "http_status": null
+          },
+          {
+            "site": "GitLab",
+            "url": "https://gitlab.com/octocat",
+            "probe_url": null,
+            "status": "unknown",
+            "evidence": "Manual profile link; existence has not been checked.",
+            "http_status": null
+          },
+          {
+            "site": "Reddit",
+            "url": "https://www.reddit.com/user/octocat/",
+            "probe_url": null,
+            "status": "unknown",
+            "evidence": "Manual profile link; existence has not been checked.",
+            "http_status": null
+          },
+          {
+            "site": "Telegram",
+            "url": "https://t.me/octocat",
+            "probe_url": null,
+            "status": "unknown",
+            "evidence": "Manual profile link; existence has not been checked.",
+            "http_status": null
+          },
+          {
+            "site": "SoundCloud",
+            "url": "https://soundcloud.com/octocat",
+            "probe_url": null,
+            "status": "unknown",
+            "evidence": "Manual profile link; existence has not been checked.",
+            "http_status": null
+          },
+          {
+            "site": "Instagram",
+            "url": "https://www.instagram.com/octocat/",
+            "probe_url": null,
+            "status": "unknown",
+            "evidence": "Manual profile link; existence has not been checked.",
+            "http_status": null
+          },
+          {
+            "site": "X",
+            "url": "https://x.com/octocat",
+            "probe_url": null,
+            "status": "unknown",
+            "evidence": "Manual profile link; existence has not been checked.",
+            "http_status": null
+          },
+          {
+            "site": "TikTok",
+            "url": "https://www.tiktok.com/@octocat",
+            "probe_url": null,
+            "status": "unknown",
+            "evidence": "Manual profile link; existence has not been checked.",
+            "http_status": null
+          },
+          {
+            "site": "YouTube",
+            "url": "https://www.youtube.com/@octocat",
+            "probe_url": null,
+            "status": "unknown",
+            "evidence": "Manual profile link; existence has not been checked.",
+            "http_status": null
+          },
+          {
+            "site": "LinkedIn",
+            "url": "https://www.linkedin.com/in/octocat/",
+            "probe_url": null,
+            "status": "unknown",
+            "evidence": "Manual profile link; existence has not been checked.",
+            "http_status": null
+          },
+          {
+            "site": "Facebook",
+            "url": "https://www.facebook.com/octocat/",
+            "probe_url": null,
+            "status": "unknown",
+            "evidence": "Manual profile link; existence has not been checked.",
+            "http_status": null
+          },
+          {
+            "site": "Pinterest",
+            "url": "https://www.pinterest.com/octocat/",
+            "probe_url": null,
+            "status": "unknown",
+            "evidence": "Manual profile link; existence has not been checked.",
+            "http_status": null
+          },
+          {
+            "site": "Twitch",
+            "url": "https://www.twitch.tv/octocat",
+            "probe_url": null,
+            "status": "unknown",
+            "evidence": "Manual profile link; existence has not been checked.",
+            "http_status": null
+          },
+          {
+            "site": "Medium",
+            "url": "https://medium.com/@octocat",
+            "probe_url": null,
+            "status": "unknown",
+            "evidence": "Manual profile link; existence has not been checked.",
+            "http_status": null
+          },
+          {
+            "site": "Behance",
+            "url": "https://www.behance.net/octocat",
+            "probe_url": null,
+            "status": "unknown",
+            "evidence": "Manual profile link; existence has not been checked.",
+            "http_status": null
+          },
+          {
+            "site": "Dribbble",
+            "url": "https://dribbble.com/octocat",
+            "probe_url": null,
+            "status": "unknown",
+            "evidence": "Manual profile link; existence has not been checked.",
+            "http_status": null
+          },
+          {
+            "site": "Snapchat",
+            "url": "https://www.snapchat.com/add/octocat",
+            "probe_url": null,
+            "status": "unknown",
+            "evidence": "Manual profile link; existence has not been checked.",
+            "http_status": null
+          },
+          {
+            "site": "Tumblr",
+            "url": "https://www.tumblr.com/octocat",
+            "probe_url": null,
+            "status": "unknown",
+            "evidence": "Manual profile link; existence has not been checked.",
+            "http_status": null
+          },
+          {
+            "site": "DEV",
+            "url": "https://dev.to/octocat",
+            "probe_url": null,
+            "status": "unknown",
+            "evidence": "Manual profile link; existence has not been checked.",
+            "http_status": null
+          },
+          {
+            "site": "HuggingFace",
+            "url": "https://huggingface.co/octocat",
+            "probe_url": null,
+            "status": "unknown",
+            "evidence": "Manual profile link; existence has not been checked.",
+            "http_status": null
+          }
+        ],
+        "summary": {
+          "unknown": 20
+        },
+        "note": "Matching handles do not establish shared identity. Unknown and blocked results are inconclusive."
+      }
+    },
+    {
+      "kind": "domain",
+      "target": "example.com",
+      "status": "local",
+      "checked_at": "2026-10-15T18:32:37+00:00",
+      "source": "IDNA (offline)",
+      "data": {
+        "ascii_domain": "example.com",
+        "note": "Domain syntax normalized locally; DNS was not queried."
+      }
+    },
+    {
+      "kind": "website",
+      "target": "https://example.com/",
+      "status": "local",
+      "checked_at": "2026-10-15T18:32:37+00:00",
+      "source": "URL parser (offline)",
+      "data": {
+        "url": "https://example.com/",
+        "note": "URL syntax checked locally; website was not contacted."
+      }
+    }
+  ]
+}
