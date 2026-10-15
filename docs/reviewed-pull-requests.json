@@ -1,0 +1,479 @@
+[
+  {
+    "number": 175,
+    "title": "fix: username scan no longer aborts on a single site's connection error",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/175",
+    "head_repo": "Yaohua-Leo/GhostTrack",
+    "head_ref": "fix/username-tracker-connection-reset",
+    "head_sha": "ce5990d917718438128fb0fb9c5a40eca983ff70",
+    "files_reviewed": true
+  },
+  {
+    "number": 174,
+    "title": "fix: use HTTPS for ipwho.is IP lookups",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/174",
+    "head_repo": "CengSin/GhostTrack",
+    "head_ref": "fix/ipwho-https",
+    "head_sha": "a26e412c62b738390352f8e18384c38e403538eb",
+    "files_reviewed": true
+  },
+  {
+    "number": 172,
+    "title": "fix: use a raw f-string for the banner to silence an invalid-escape SyntaxWarning",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/172",
+    "head_repo": "alexwangzheng74/GhostTrack",
+    "head_ref": "fix/banner-invalid-escape",
+    "head_sha": "7026d5aae94d5cb90d949aa99aa0d53f8bdc1eb1",
+    "files_reviewed": false
+  },
+  {
+    "number": 170,
+    "title": "Improve username search resilience and eliminate false positives using OSINT techniques",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/170",
+    "head_repo": "Real3dn/GhostTrack",
+    "head_ref": "improve-username-search-resilience",
+    "head_sha": "6ab7276362a1312c63e8c7dacb4d87191331f804",
+    "files_reviewed": true
+  },
+  {
+    "number": 166,
+    "title": "docs: add Windows installation instructions",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/166",
+    "head_repo": "aymanbouanouj/GhostTrack",
+    "head_ref": "docs/add-windows-installation",
+    "head_sha": "100e46d28dddc3dded6573ea4cea0c6ddd34d96f",
+    "files_reviewed": false
+  },
+  {
+    "number": 165,
+    "title": "Modernize GhostTrack lookups, CLI, Docker and regression tests",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/165",
+    "head_repo": "jimskin03/GhostTrack",
+    "head_ref": "modernize/ghosttrack-2026",
+    "head_sha": "7b0d586b9c901b3c75f4406ef7fb6a0c2a21a215",
+    "files_reviewed": true
+  },
+  {
+    "number": 162,
+    "title": "Fix IP tracker map URL truncating float coordinates to integers",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/162",
+    "head_repo": "A220man/GhostTrack",
+    "head_ref": "portfolio/ryan/b090ff8ba995",
+    "head_sha": "b090ff8ba995b64cddbd3ed6a749f6bb3b3ffcc7",
+    "files_reviewed": true
+  },
+  {
+    "number": 160,
+    "title": "refine installation and README.md",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/160",
+    "head_repo": "Dev2023-Op/GhostTrack",
+    "head_ref": "main",
+    "head_sha": "c4966f29352de6b3381e04ac8248369ced968636",
+    "files_reviewed": false
+  },
+  {
+    "number": 147,
+    "title": "Create django.yml",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/147",
+    "head_repo": "dekoivvkw-netizen/ghosttrack",
+    "head_ref": "main",
+    "head_sha": "e0edd63b015595656e589b75531a54acd570bd00",
+    "files_reviewed": false
+  },
+  {
+    "number": 145,
+    "title": "Dev",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/145",
+    "head_repo": "Rintu-chowdory/GhostTrack",
+    "head_ref": "dev",
+    "head_sha": "a331b2be46a9f5ea7b6ae2915418d5317cd73992",
+    "files_reviewed": true
+  },
+  {
+    "number": 144,
+    "title": "Update README with installation instructions",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/144",
+    "head_repo": "shyamchandsaren313-svg/GhostTrack",
+    "head_ref": "patch-1",
+    "head_sha": "7ef6100afbb02843b00341dcf3f1c6b6e3184daf",
+    "files_reviewed": false
+  },
+  {
+    "number": 143,
+    "title": "Update GhostTR.py",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/143",
+    "head_repo": "satyampandey556677-alt/GhostTrack",
+    "head_ref": "patch-1",
+    "head_sha": "11f8f62572339ec8558ab684010366bcb5a83e25",
+    "files_reviewed": false
+  },
+  {
+    "number": 139,
+    "title": "Update GhostTR.py & Fix username tracker timeout",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/139",
+    "head_repo": "Pm620/GhostTrack",
+    "head_ref": "patch-1",
+    "head_sha": "288b572e9ca30d77bdbe157588d043f4b87a8e59",
+    "files_reviewed": true
+  },
+  {
+    "number": 138,
+    "title": "Create 085095 68734",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/138",
+    "head_repo": "shubhajitbiswas3547-design/GhostTrack",
+    "head_ref": "main",
+    "head_sha": "e041dba6e7e1691273a9d7804bda09654fff4e8a",
+    "files_reviewed": false
+  },
+  {
+    "number": 136,
+    "title": "Update README.md for Upgrade section 8509568734",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/136",
+    "head_repo": "shubhajitbiswas3547-design/GhostTrack",
+    "head_ref": "patch-2",
+    "head_sha": "66fa342873ca2bef2cfc089ebb2942997255e0bc",
+    "files_reviewed": false
+  },
+  {
+    "number": 135,
+    "title": "Update README.md with new file reference 8509568734",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/135",
+    "head_repo": "shubhajitbiswas3547-design/GhostTrack",
+    "head_ref": "patch-1",
+    "head_sha": "53a73ce4a52254d1cd8bfff1a04db5e9bef72579",
+    "files_reviewed": false
+  },
+  {
+    "number": 133,
+    "title": "cheatUpdate README with introductory line",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/133",
+    "head_repo": "woodenwyatt48-cloud/GhostTrack",
+    "head_ref": "patch-1",
+    "head_sha": "e412e94a7da26f3e9f44d2e21336cee017619986",
+    "files_reviewed": false
+  },
+  {
+    "number": 131,
+    "title": "Enhance IP tracking and username scanning functionality with improved\u2026",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/131",
+    "head_repo": "hafilrazz/GhostTrack",
+    "head_ref": "main",
+    "head_sha": "cae9fb169beb68ee9a228659dbe8f032712c949d",
+    "files_reviewed": true
+  },
+  {
+    "number": 129,
+    "title": "i replace ip_data['timezone]['current_time']' with get so i import pp\u2026",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/129",
+    "head_repo": "lfarssi/GhostTrack",
+    "head_ref": "main",
+    "head_sha": "baea02892f1bb735d636e641b0f87b10e1a92f2c",
+    "files_reviewed": false
+  },
+  {
+    "number": 125,
+    "title": "docs: fix typos",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/125",
+    "head_repo": "jeis4wpi/ghosttrack",
+    "head_ref": "main",
+    "head_sha": "05681692f3200a832d45b289a534cbd70e853cfa",
+    "files_reviewed": false
+  },
+  {
+    "number": 124,
+    "title": "Fix bugs: current_time crash, SyntaxWarning, empty input, duplicate Snapchat, stderr.writelines",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/124",
+    "head_repo": "orstro/GhostTrack",
+    "head_ref": "main",
+    "head_sha": "f67db1dd7aafbffe828b35cc773729663d435545",
+    "files_reviewed": true
+  },
+  {
+    "number": 122,
+    "title": "Add location information for 5592004385",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/122",
+    "head_repo": "vincenta187-dot/GhostTrack",
+    "head_ref": "patch-1",
+    "head_sha": "bed12dd4ef8455fb6e14cf1e9fbbc4e53b659d3b",
+    "files_reviewed": false
+  },
+  {
+    "number": 119,
+    "title": "Fix KeyError crash when ipwho.is API omits current_time field",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/119",
+    "head_repo": "Mabroukimohamedyassine/GhostTrack",
+    "head_ref": "fix/current-time-keyerror",
+    "head_sha": "07ed5a20d108d72328d36094b38735c911c54fee",
+    "files_reviewed": false
+  },
+  {
+    "number": 114,
+    "title": "Add Windows installation support",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/114",
+    "head_repo": "NomadUmbra/GhostTrack",
+    "head_ref": "add-windows-install-support",
+    "head_sha": "2ea7830a21128ee95239407c4c0a7199b5c0968c",
+    "files_reviewed": true
+  },
+  {
+    "number": 109,
+    "title": "Update GhostTR.py",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/109",
+    "head_repo": "jo-jony-2020/GhostTrack",
+    "head_ref": "patch-2",
+    "head_sha": "7ab263e55507cd42877a4da286bdce64775b1c12",
+    "files_reviewed": false
+  },
+  {
+    "number": 108,
+    "title": "fix EOF crash and input flow",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/108",
+    "head_repo": "Souvik-Dey-2029/GhostTrack",
+    "head_ref": "main",
+    "head_sha": "f406f447e1e82d4fe8704a16672af10a8921ef9d",
+    "files_reviewed": true
+  },
+  {
+    "number": 103,
+    "title": "Fix missing current_time exception in GhostTR",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/103",
+    "head_repo": "SayanDey322/GhostTrack",
+    "head_ref": "fix-current-time-key",
+    "head_sha": "c454d04a35bbd0fbdfaf2434ef9be72976f278cc",
+    "files_reviewed": false
+  },
+  {
+    "number": 100,
+    "title": "Sherlock",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/100",
+    "head_repo": "KaliLugu/GhostTrack",
+    "head_ref": "sherlock",
+    "head_sha": "90db4377241ad97735d0f90ee1fa1bac6eb45bd4",
+    "files_reviewed": false
+  },
+  {
+    "number": 99,
+    "title": "Add env file",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/99",
+    "head_repo": "KaliLugu/GhostTrack",
+    "head_ref": "add-env-file",
+    "head_sha": "0f7c93961f21f9ce7147c7a53c48cc5a1d8361e9",
+    "files_reviewed": false
+  },
+  {
+    "number": 97,
+    "title": "Add new features to Ghost Tracker tool",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/97",
+    "head_repo": "krataratha/GhostTrack",
+    "head_ref": "patch-1",
+    "head_sha": "4e7a60cf5f583477233a2f9c1891503fddae0bf5",
+    "files_reviewed": true
+  },
+  {
+    "number": 96,
+    "title": "api readme",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/96",
+    "head_repo": "KaliLugu/GhostTrack",
+    "head_ref": "use-abuse-api",
+    "head_sha": "3221eed45e2a4ef7f40742bf76c94c1a8aae0393",
+    "files_reviewed": false
+  },
+  {
+    "number": 95,
+    "title": "api readme",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/95",
+    "head_repo": "KaliLugu/GhostTrack",
+    "head_ref": "use-abuse-api",
+    "head_sha": "3221eed45e2a4ef7f40742bf76c94c1a8aae0393",
+    "files_reviewed": false
+  },
+  {
+    "number": 78,
+    "title": "Fix author details and formatting issues in README",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/78",
+    "head_repo": "jovani85/GhostTrack",
+    "head_ref": "patch-1",
+    "head_sha": "8fefc6224f13d2ca01d4c418f9a40b3dc325842b",
+    "files_reviewed": false
+  },
+  {
+    "number": 76,
+    "title": "Fix of all errors",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/76",
+    "head_repo": "The-R34per/GhostTrack",
+    "head_ref": "main",
+    "head_sha": "41c60b5b7cd85c53c473802f7d97941ff504357b",
+    "files_reviewed": true
+  },
+  {
+    "number": 72,
+    "title": "Refactor code structure for improved readability and maintainability",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/72",
+    "head_repo": "seilorjunior/GhostTrack",
+    "head_ref": "main",
+    "head_sha": "cfb06c74ed93e95823d855fa539d7e2af80d0fd9",
+    "files_reviewed": true
+  },
+  {
+    "number": 70,
+    "title": "chore: add .gitignore to exclude virtual environments and build artifacts",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/70",
+    "head_repo": "mayanklabs/GhostTrack",
+    "head_ref": "main",
+    "head_sha": "a338eb0a2898898eb2657d98f397fc3d8e40de3b",
+    "files_reviewed": false
+  },
+  {
+    "number": 69,
+    "title": "fix(IP_Track): enable internal IP scanning for local network devices",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/69",
+    "head_repo": "gustavo-szesz/GhostTrack",
+    "head_ref": "ip-address-internal",
+    "head_sha": "be7078b3b678c67f7358ef7914bb4ff83e70abbb",
+    "files_reviewed": true
+  },
+  {
+    "number": 67,
+    "title": "implement robust error handling and fix infinite loop (Issue #51)",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/67",
+    "head_repo": "imuday984/GhostTrack",
+    "head_ref": "prevent-the-loop",
+    "head_sha": "9e09787fc8e2fdba7b7f8f0addde940aa6b23fa1",
+    "files_reviewed": true
+  },
+  {
+    "number": 66,
+    "title": "Update GhostTR.py",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/66",
+    "head_repo": null,
+    "head_ref": "patch-1",
+    "head_sha": "4d678124e266a6507e5ff7e266e579c5c532f12b",
+    "files_reviewed": false
+  },
+  {
+    "number": 65,
+    "title": "Add Electron GUI with modernized OSINT toolkit",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/65",
+    "head_repo": "Kryptographer/GhostTrack",
+    "head_ref": "claude/modernize-electron-gui-LRd2i",
+    "head_sha": "ab5c34f4615598898f8fd466cacb8d1d6a92fc96",
+    "files_reviewed": true
+  },
+  {
+    "number": 56,
+    "title": "Prepare changes to publish as package on pipit",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/56",
+    "head_repo": null,
+    "head_ref": "ft/prepare-to-upload-to-pypi",
+    "head_sha": "6ea585f1efc4928c2199e7dae510e2a3d3e872b6",
+    "files_reviewed": true
+  },
+  {
+    "number": 52,
+    "title": "Fix exception handling to call error again",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/52",
+    "head_repo": "Tr-Do/GhostTrack",
+    "head_ref": "Tr-Do",
+    "head_sha": "aee7c1a528e5effc1fd8721a49aa0a6cb590e428",
+    "files_reviewed": false
+  },
+  {
+    "number": 47,
+    "title": "Create shivam.txt",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/47",
+    "head_repo": "shivamhero50-afk/GhostTrack",
+    "head_ref": "Wok",
+    "head_sha": "c3266ce97554eaabaa37fdb24ee2b9035f7bcdf1",
+    "files_reviewed": false
+  },
+  {
+    "number": 44,
+    "title": "Made Username Tracker 5 times faster",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/44",
+    "head_repo": null,
+    "head_ref": "main",
+    "head_sha": "fb2bc6f04b0837dfcd3488f0df742c60f6c1ea96",
+    "files_reviewed": true
+  },
+  {
+    "number": 42,
+    "title": "Update GhostTR.py",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/42",
+    "head_repo": "skillradius360/GhostTrack",
+    "head_ref": "main",
+    "head_sha": "a06f2b9d1cd4ed56a223dc1b5701dd8a4656c812",
+    "files_reviewed": false
+  },
+  {
+    "number": 40,
+    "title": "Create build-binary.yml",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/40",
+    "head_repo": "YonisHassan/GhostTrack",
+    "head_ref": "main",
+    "head_sha": "31e911c94a2f64148fc3edd8770717629aadc11e",
+    "files_reviewed": false
+  },
+  {
+    "number": 39,
+    "title": "fixed error HttpConnectionError, introduced new try-catch error block\u2026",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/39",
+    "head_repo": "Urten/GhostTrack",
+    "head_ref": "main",
+    "head_sha": "47ef279986891a184d120248889a4ca5f730afb1",
+    "files_reviewed": true
+  },
+  {
+    "number": 35,
+    "title": "Added notes.txt file",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/35",
+    "head_repo": "navvvvs/GhostTrack",
+    "head_ref": "new1",
+    "head_sha": "e15f21ab01469dc62328b9aa469c76c62c5044c6",
+    "files_reviewed": false
+  },
+  {
+    "number": 27,
+    "title": "Codespace bug free tehttps://github.com/HunxByts/GhostTrack.gitlegram 5g97qv5jjrpr27vj5",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/27",
+    "head_repo": "WellitoSantos/GhostTrack",
+    "head_ref": "codespace-bug-free-telegram-5g97qv5jjrpr27vj5",
+    "head_sha": "f5f67fdc1af5307d1eff7f96a67351621cbafbaa",
+    "files_reviewed": false
+  },
+  {
+    "number": 25,
+    "title": "\ud835\udc6b\ud835\udc68\ud835\udc79\ud835\udc72 \ud835\udc6f\ud835\udc68\ud835\udc6a\ud835\udc72\ud835\udc6c\ud835\udc79",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/25",
+    "head_repo": "NEJDNDNDN/GhostTrack",
+    "head_ref": "patch-2",
+    "head_sha": "cf1d8619a56cef99712bebf3a77cff7e39709895",
+    "files_reviewed": false
+  },
+  {
+    "number": 24,
+    "title": "Update README.md",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/24",
+    "head_repo": "NEJDNDNDN/GhostTrack",
+    "head_ref": "patch-1",
+    "head_sha": "a636488e27f3e76ec1431c90061415d688377634",
+    "files_reviewed": false
+  },
+  {
+    "number": 20,
+    "title": "Update GhostTR.py",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/20",
+    "head_repo": "Cpmcane/GoodShit",
+    "head_ref": "patch-1",
+    "head_sha": "b22f010df4aec05df01a7d60d4094a0c1d6cb5b9",
+    "files_reviewed": false
+  },
+  {
+    "number": 3,
+    "title": "Reworked the entire scripts for future code expansion. Retain old fun\u2026",
+    "url": "https://github.com/HunxByts/GhostTrack/pull/3",
+    "head_repo": "bakaemon/GhostTrack",
+    "head_ref": "main",
+    "head_sha": "28839e268c065e87f8bf30cfd071df1f98839387",
+    "files_reviewed": false
+  }
+]
